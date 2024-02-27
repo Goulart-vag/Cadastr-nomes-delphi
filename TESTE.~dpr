@@ -1,0 +1,13 @@
+program TESTE;
+
+uses
+  Forms,
+  U_PRINICIPAL in 'U_PRINICIPAL.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

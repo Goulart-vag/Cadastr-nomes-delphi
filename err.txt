@@ -1,0 +1,3 @@
+Build
+  [Error] U_PRINICIPAL.pas(107): Undeclared identifier: 'DeleteArrayElemente'
+  [Fatal Error] TESTE.dpr(5): Could not compile used unit 'U_PRINICIPAL.pas'
